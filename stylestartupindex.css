@@ -1,0 +1,78 @@
+
+html,
+body
+{
+
+	width: 100%;
+	height: 93.5%;
+	font-family: 'Yellowtail', cursive;
+	
+
+	  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1{
+
+	font-size: 5rem;
+	color: white;
+	text-align: center;
+}
+
+h2{
+font-size: 2rem;
+color: white;
+text-align: center;
+
+}
+
+.btn{
+
+	font-weight: 700;
+	border-radius: 300px;
+
+}
+
+.btn-outline-light{
+
+	 font-family: 'Indie Flower', cursive;
+	font-size: 1rem;
+	color: white;
+	display: flex;
+	height: 40px;
+	align-self: center;
+	background-color: transparent;
+	border-color: white;
+	
+}
+
+
+
+
+.btn:hover{
+
+	background-image: url(https://image.freepik.com/vector-gratis/hojas-tropicales-anaranjadas-monocromaticas_52683-38045.jpg);
+	color:black;
+	font-weight: 3px;
+	border-color: darkorange;
+	transform: scale(1.1);
+}
+
+hr{
+	border-color:brown;
+	border-width: 2px;
+	max-width: 100px;
+}
+
+.buffer{
+	height: 100px;
+}
+
+.header{
+
+	margin-bottom: 0px;
+
+}
